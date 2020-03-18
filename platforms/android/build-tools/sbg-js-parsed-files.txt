@@ -1,0 +1,4 @@
+/Users/simo018/Desktop/svelte-native-news/platforms/android/app/src/main/assets/app/runtime.js
+/Users/simo018/Desktop/svelte-native-news/platforms/android/app/src/main/assets/app/bundle.js
+/Users/simo018/Desktop/svelte-native-news/platforms/android/app/src/main/assets/app/vendor.js
+/Users/simo018/Desktop/svelte-native-news/platforms/android/app/src/main/assets/app/tns-java-classes.js

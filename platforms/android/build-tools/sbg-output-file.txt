@@ -1,0 +1,1 @@
+/Users/simo018/Desktop/svelte-native-news/platforms/android/app/src/main/java

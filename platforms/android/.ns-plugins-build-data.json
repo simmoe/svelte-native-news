@@ -1,0 +1,8 @@
+{
+	"@nativescript/core": {
+		"/Users/simo018/Desktop/svelte-native-news/node_modules/@nativescript/core/platforms/android/native-api-usage.json": "34ee0e9771ad7dd9d388c191734d71507a04565a"
+	},
+	"tns-core-modules-widgets": {
+		"/Users/simo018/Desktop/svelte-native-news/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "04ab989979a9c06b74b16f0841963ad5a22a7d4e"
+	}
+}

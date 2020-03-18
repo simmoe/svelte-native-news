@@ -1,0 +1,4 @@
+#Wed Mar 18 12:33:07 CET 2020
+base.0=/Users/simo018/Desktop/svelte-native-news/platforms/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
